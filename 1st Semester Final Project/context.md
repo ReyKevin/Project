@@ -15,7 +15,7 @@ This project was created as a requierment to fulfill Algorithm and Programming's
 10. Searching
 
 # Credits :
-Aria Rifqi
-Billy Moses
-Julio Rivaldo
-Kevin Reynaldi
+Aria Rifqi\n
+Billy Moses\n
+Julio Rivaldo\n
+Kevin Reynaldi\n
