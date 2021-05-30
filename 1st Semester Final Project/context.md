@@ -1,6 +1,6 @@
 # Algorithm and Programming
 
-This project was created as a requirement to fulfill Algorithm and Programming's final project in the 1st semester and written in C language. It was done by my team, Aria, Billy, Julio, and I. The scope of this project contains Input/Output instruction syntax, arithmetic operation, selection, repetition, 1 dimensional array, function, recursive, file, sorting, and searching.
+This project was created as a requirement to fulfill Algorithm and Programming's final project in the 1st semester and written in C language. It was done by my team, consists of Aria, Billy, Julio, and I. The scope of this project contains Input/Output instruction syntax, arithmetic operation, selection, repetition, 1 dimensional array, function, recursive, file, sorting, and searching.
 
 Note : this program requires file in .txt format to run with same file name used in the source code. The files needed are missing, and I'm still trying to search for it in my PC. I'll post it here as soon as I find it, or maybe put new files as a dummy.
 
